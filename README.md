@@ -1,6 +1,6 @@
 ## fasttextM: Fast Multilingual Word Embeddings
 
-**Authors:** Taylor B. Arnold, Nicolas Bailler, Paula Lissón<br/>
+**Authors:** Taylor B. Arnold, Nicolas Ballier, Paula Lissón<br/>
 **License:** [LGPL-2](https://opensource.org/licenses/LGPL-2.1)
 
  [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/statsmaths/fasttextM?branch=master&svg=true)](https://ci.appveyor.com/project/statsmaths/fasttextM) [![Travis-CI Build Status](https://travis-ci.org/statsmaths/fasttextM.svg?branch=master)](https://travis-ci.org/statsmaths/fasttextM) [![Coverage Status](https://img.shields.io/codecov/c/github/statsmaths/fasttextM/master.svg)](https://codecov.io/github/statsmaths/fasttextM?branch=master)
